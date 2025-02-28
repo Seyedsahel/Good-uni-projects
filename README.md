@@ -5,5 +5,7 @@
 other my  uni projects:
 * [js-proj](https://github.com/Seyedsahel/js-proj)
 * [android-proj](https://github.com/Seyedsahel/easy_learn)
+* [multi-threaded-downloader](https://github.com/Seyedsahel/multi-threaded-downloader)
+
 
 
